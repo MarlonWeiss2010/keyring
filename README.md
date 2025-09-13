@@ -57,19 +57,27 @@ git clone https://github.com/MarlonWeiss2010/keyring.git
 cd keyring
 
 # Setup instructions coming soon...
-Contributing
+```
+
+## Contributing
+
 We welcome contributions from the open-source community.
 
-Open issues for bugs or feature suggestions
+- Open issues for bugs or feature suggestions
 
-Submit pull requests for enhancements
+- Submit pull requests for enhancements
 
-Follow the contribution guidelines and code of conduct (coming soon)
+- Follow the contribution guidelines and code of conduct (coming soon)
 
-License
+## License
+
 This project is licensed under the GNU License.
 
-Disclaimer
+## Disclaimer
+
 Keyring is currently in development.
 Please do not use it in production environments until a stable release is available.
+
+```
+
 ```
